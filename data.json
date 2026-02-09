@@ -1,0 +1,1021 @@
+{
+  "sections": [
+    {
+      "id": "1",
+      "title": "Section 1: General Aptitude",
+      "children": [
+        {
+          "title": "1.1 Verbal Aptitude",
+          "children": [
+            {
+              "title": "1.1.1 Grammar and Vocabulary",
+              "children": [
+                {
+                  "title": "1.1.1.1 English grammar",
+                  "children": [
+                    { "title": "1.1.1.1.1 Tenses and sentence structure" },
+                    { "title": "1.1.1.1.2 Articles and prepositions" },
+                    { "title": "1.1.1.1.3 Voice (active and passive)" }
+                  ]
+                },
+                {
+                  "title": "1.1.1.2 Vocabulary usage",
+                  "children": [
+                    { "title": "1.1.1.2.1 Synonyms and antonyms" },
+                    { "title": "1.1.1.2.2 Word analogies" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1.1.2 Reading Comprehension",
+              "children": [
+                {
+                  "title": "1.1.2.1 Understanding passages",
+                  "children": [
+                    { "title": "1.1.2.1.1 Main idea identification" },
+                    { "title": "1.1.2.1.2 Inference and conclusion" }
+                  ]
+                },
+                {
+                  "title": "1.1.2.2 Critical thinking",
+                  "children": [
+                    { "title": "1.1.2.2.1 Author's perspective analysis" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1.1.3 Verbal Reasoning",
+              "children": [
+                { "title": "1.1.3.1 Sentence completion" },
+                { "title": "1.1.3.2 Verbal analogies" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Quantitative Aptitude",
+          "children": [
+            {
+              "title": "1.2.1 Number Systems",
+              "children": [
+                {
+                  "title": "1.2.1.1 Real numbers",
+                  "children": [
+                    { "title": "1.2.1.1.1 Properties of integers" },
+                    { "title": "1.2.1.1.2 Rational and irrational numbers" }
+                  ]
+                },
+                {
+                  "title": "1.2.1.2 HCF and LCM",
+                  "children": [
+                    { "title": "1.2.1.2.1 HCF x LCM = Product of two numbers" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1.2.2 Percentages and Ratios",
+              "children": [
+                {
+                  "title": "1.2.2.1 Percentage calculations",
+                  "children": [
+                    { "title": "1.2.2.1.1 Percentage = Part/Whole * 100" }
+                  ]
+                },
+                {
+                  "title": "1.2.2.2 Ratio and proportion",
+                  "children": [
+                    { "title": "1.2.2.2.1 a/b = c/d => ad = bc" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1.2.3 Speed, Time and Distance",
+              "children": [
+                {
+                  "title": "1.2.3.1 Basic concepts",
+                  "children": [
+                    { "title": "1.2.3.1.1 Speed = Distance / Time" },
+                    { "title": "1.2.3.1.2 Average Speed = Total Distance / Total Time" }
+                  ]
+                },
+                {
+                  "title": "1.2.3.2 Relative speed",
+                  "children": [
+                    { "title": "1.2.3.2.1 Same direction: v_rel = v1 - v2" },
+                    { "title": "1.2.3.2.2 Opposite direction: v_rel = v1 + v2" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1.2.4 Profit and Loss",
+              "children": [
+                {
+                  "title": "1.2.4.1 Basic formulas",
+                  "children": [
+                    { "title": "1.2.4.1.1 Profit = SP - CP" },
+                    { "title": "1.2.4.1.2 Profit % = Profit/CP * 100" },
+                    { "title": "1.2.4.1.3 Loss % = Loss/CP * 100" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1.2.5 Simple and Compound Interest",
+              "children": [
+                {
+                  "title": "1.2.5.1 Simple interest",
+                  "children": [
+                    { "title": "1.2.5.1.1 SI = P*R*T / 100" }
+                  ]
+                },
+                {
+                  "title": "1.2.5.2 Compound interest",
+                  "children": [
+                    { "title": "1.2.5.2.1 A = P(1 + r/n)^nt" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1.2.6 Permutations and Combinations",
+              "children": [
+                {
+                  "title": "1.2.6.1 Permutations",
+                  "children": [
+                    { "title": "1.2.6.1.1 P_r = n!/(n-r)!" }
+                  ]
+                },
+                {
+                  "title": "1.2.6.2 Combinations",
+                  "children": [
+                    { "title": "1.2.6.2.1 C_r = n!/(r!(n-r)!)" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1.2.7 Probability",
+              "children": [
+                {
+                  "title": "1.2.7.1 Basic probability",
+                  "children": [
+                    { "title": "1.2.7.1.1 P(E) = Number of favorable outcomes / Total number of outcomes" }
+                  ]
+                },
+                {
+                  "title": "1.2.7.2 Conditional probability",
+                  "children": [
+                    { "title": "1.2.7.2.1 P(A|B) = P(A intersection B) / P(B)" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1.2.8 Mensuration",
+              "children": [
+                {
+                  "title": "1.2.8.1 2D figures",
+                  "children": [
+                    {
+                      "title": "1.2.8.1.1 Area and perimeter formulas",
+                      "children": [
+                        { "title": "1.2.8.1.1.1 Circle: A = pi*r^2, C = 2*pi*r" },
+                        { "title": "1.2.8.1.1.2 Rectangle: A = l*b, P = 2(l+b)" },
+                        { "title": "1.2.8.1.1.3 Triangle: A = 1/2 * b * h" }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "1.2.8.2 3D figures",
+                  "children": [
+                    {
+                      "title": "1.2.8.2.1 Volume and surface area",
+                      "children": [
+                        { "title": "1.2.8.2.1.1 Sphere: V = 4/3*pi*r^3, SA = 4*pi*r^2" },
+                        { "title": "1.2.8.2.1.2 Cylinder: V = pi*r^2*h, SA = 2*pi*r(r+h)" },
+                        { "title": "1.2.8.2.1.3 Cone: V = 1/3*pi*r^2*h, SA = pi*r(r+l)" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.3 Analytical Aptitude",
+          "children": [
+            {
+              "title": "1.3.1 Logic",
+              "children": [
+                {
+                  "title": "1.3.1.1 Deduction",
+                  "children": [
+                    { "title": "1.3.1.1.1 Syllogisms and conclusions" }
+                  ]
+                },
+                {
+                  "title": "1.3.1.2 Induction",
+                  "children": [
+                    { "title": "1.3.1.2.1 Pattern recognition" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1.3.2 Analogy",
+              "children": [
+                { "title": "1.3.2.1 Word analogies" },
+                { "title": "1.3.2.2 Numerical analogies" }
+              ]
+            },
+            {
+              "title": "1.3.3 Numerical Relations and Reasoning",
+              "children": [
+                { "title": "1.3.3.1 Number series" },
+                { "title": "1.3.3.2 Coding and decoding" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.4 Spatial Aptitude",
+          "children": [
+            {
+              "title": "1.4.1 Transformation of Shapes",
+              "children": [
+                { "title": "1.4.1.1 Translation" },
+                {
+                  "title": "1.4.1.2 Rotation",
+                  "children": [
+                    { "title": "1.4.1.2.1 90deg, 180deg, 270deg rotations" }
+                  ]
+                },
+                { "title": "1.4.1.3 Scaling" },
+                { "title": "1.4.1.4 Mirroring" },
+                { "title": "1.4.1.5 Assembling and grouping" }
+              ]
+            },
+            {
+              "title": "1.4.2 Paper Folding and Cutting",
+              "children": [
+                { "title": "1.4.2.1 2D patterns" },
+                { "title": "1.4.2.2 3D patterns" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Section 2: Engineering Mathematics",
+      "children": [
+        {
+          "title": "2.1 Linear Algebra",
+          "children": [
+            {
+              "title": "2.1.1 Matrix Theory",
+              "children": [
+                {
+                  "title": "2.1.1.1 Matrix algebra",
+                  "children": [
+                    {
+                      "title": "2.1.1.1.1 Matrix operations",
+                      "children": [
+                        { "title": "2.1.1.1.1.1 (AB)^T = B^T A^T" },
+                        { "title": "2.1.1.1.1.2 (AB)^-1 = B^-1 A^-1" }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "2.1.1.2 Determinants",
+                  "children": [
+                    {
+                      "title": "2.1.1.2.1 Properties of determinants",
+                      "children": [
+                        { "title": "2.1.1.2.1.1 det(AB) = det(A) * det(B)" },
+                        { "title": "2.1.1.2.1.2 det(A^T) = det(A)" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.1.2 Systems of Linear Equations",
+              "children": [
+                {
+                  "title": "2.1.2.1 Solution methods",
+                  "children": [
+                    { "title": "2.1.2.1.1 Gaussian elimination" },
+                    { "title": "2.1.2.1.2 Gauss-Jordan method" },
+                    {
+                      "title": "2.1.2.1.3 Cramer's rule",
+                      "children": [
+                        { "title": "2.1.2.1.3.1 x_i = det(A_i)/det(A)" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.1.3 Eigenvalues and Eigenvectors",
+              "children": [
+                {
+                  "title": "2.1.3.1 Characteristic equation",
+                  "children": [
+                    { "title": "2.1.3.1.1 det(A - lambda*I) = 0" }
+                  ]
+                },
+                {
+                  "title": "2.1.3.2 Eigenvalue properties",
+                  "children": [
+                    { "title": "2.1.3.2.1 Trace(A) = sum(lambda_i)" },
+                    { "title": "2.1.3.2.2 det(A) = product(lambda_i)" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Calculus",
+          "children": [
+            {
+              "title": "2.2.1 Functions and Limits",
+              "children": [
+                {
+                  "title": "2.2.1.1 Limit theorems",
+                  "children": [
+                    { "title": "2.2.1.1.1 lim x->0 (sin x)/x = 1" },
+                    { "title": "2.2.1.1.2 lim x->infinity (1 + 1/x)^x = e" }
+                  ]
+                },
+                {
+                  "title": "2.2.1.2 Continuity and differentiability",
+                  "children": [
+                    { "title": "2.2.1.2.1 Continuity conditions" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.2.2 Differentiation",
+              "children": [
+                {
+                  "title": "2.2.2.1 Standard derivatives",
+                  "children": [
+                    { "title": "2.2.2.1.1 d/dx (x^n) = n*x^(n-1)" },
+                    { "title": "2.2.2.1.2 d/dx (e^x) = e^x" },
+                    { "title": "2.2.2.1.3 d/dx (ln x) = 1/x" },
+                    { "title": "2.2.2.1.4 d/dx (sin x) = cos x" },
+                    { "title": "2.2.2.1.5 d/dx (cos x) = -sin x" }
+                  ]
+                },
+                {
+                  "title": "2.2.2.2 Differentiation rules",
+                  "children": [
+                    { "title": "2.2.2.2.1 Product rule: (uv)' = u'v + uv'" },
+                    { "title": "2.2.2.2.2 Quotient rule: (u/v)' = (u'v - uv')/v^2" },
+                    { "title": "2.2.2.2.3 Chain rule: dy/dx = dy/du * du/dx" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.2.3 Mean Value Theorems",
+              "children": [
+                {
+                  "title": "2.2.3.1 Rolle's theorem",
+                  "children": [
+                    { "title": "2.2.3.1.1 If f(a) = f(b), then f'(c) = 0 for some c in (a, b)" }
+                  ]
+                },
+                {
+                  "title": "2.2.3.2 Lagrange's mean value theorem",
+                  "children": [
+                    { "title": "2.2.3.2.1 f'(c) = (f(b) - f(a)) / (b - a)" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.2.4 Integration",
+              "children": [
+                {
+                  "title": "2.2.4.1 Indefinite integrals",
+                  "children": [
+                    { "title": "2.2.4.1.1 integral x^n dx = x^(n+1)/(n+1) + C" },
+                    { "title": "2.2.4.1.2 integral e^x dx = e^x + C" },
+                    { "title": "2.2.4.1.3 integral 1/x dx = ln |x| + C" },
+                    { "title": "2.2.4.1.4 integral sin x dx = -cos x + C" },
+                    { "title": "2.2.4.1.5 integral cos x dx = sin x + C" }
+                  ]
+                },
+                {
+                  "title": "2.2.4.2 Definite integrals",
+                  "children": [
+                    { "title": "2.2.4.2.1 Fundamental theorem: integral_a^b f(x)dx = F(b) - F(a)" }
+                  ]
+                },
+                {
+                  "title": "2.2.4.3 Integration techniques",
+                  "children": [
+                    { "title": "2.2.4.3.1 Integration by parts: integral u dv = uv - integral v du" },
+                    { "title": "2.2.4.3.2 Integration by substitution" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.2.5 Multiple Integrals",
+              "children": [
+                {
+                  "title": "2.2.5.1 Double integrals",
+                  "children": [
+                    { "title": "2.2.5.1.1 double_integral_R f(x,y) dA" }
+                  ]
+                },
+                {
+                  "title": "2.2.5.2 Triple integrals",
+                  "children": [
+                    { "title": "2.2.5.2.1 triple_integral_V f(x,y,z) dV" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.2.6 Maxima and Minima",
+              "children": [
+                {
+                  "title": "2.2.6.1 First derivative test",
+                  "children": [
+                    { "title": "2.2.6.1.1 Critical points: f'(x) = 0" }
+                  ]
+                },
+                {
+                  "title": "2.2.6.2 Second derivative test",
+                  "children": [
+                    { "title": "2.2.6.2.1 If f''(x) > 0: local minimum" },
+                    { "title": "2.2.6.2.2 If f''(x) < 0: local maximum" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.2.7 Taylor Series",
+              "children": [
+                {
+                  "title": "2.2.7.1 Taylor's theorem",
+                  "children": [
+                    { "title": "2.2.7.1.1 f(x) = f(a) + f'(a)(x - a) + (f''(a)/2!)(x - a)^2 + ..." }
+                  ]
+                },
+                {
+                  "title": "2.2.7.2 Maclaurin series",
+                  "children": [
+                    { "title": "2.2.7.2.1 e^x = 1 + x + x^2/2! + x^3/3! + ..." },
+                    { "title": "2.2.7.2.2 sin x = x - x^3/3! + x^5/5! - ..." },
+                    { "title": "2.2.7.2.3 cos x = 1 - x^2/2! + x^4/4! - ..." }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.3 Differential Equations",
+          "children": [
+            {
+              "title": "2.3.1 First Order ODEs",
+              "children": [
+                {
+                  "title": "2.3.1.1 Separable equations",
+                  "children": [
+                    { "title": "2.3.1.1.1 dy/dx = f(x)g(y)" }
+                  ]
+                },
+                {
+                  "title": "2.3.1.2 Linear equations",
+                  "children": [
+                    { "title": "2.3.1.2.1 dy/dx + P(x)y = Q(x)" },
+                    { "title": "2.3.1.2.2 Solution: y * e^(integral P dx) = integral Q * e^(integral P dx) dx + C" }
+                  ]
+                },
+                {
+                  "title": "2.3.1.3 Exact equations",
+                  "children": [
+                    { "title": "2.3.1.3.1 Mdx + Ndy = 0" },
+                    { "title": "2.3.1.3.2 Exactness condition: dM/dy = dN/dx" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.3.2 Higher Order Linear ODEs",
+              "children": [
+                {
+                  "title": "2.3.2.1 Homogeneous equations",
+                  "children": [
+                    { "title": "2.3.2.1.1 Characteristic equation method" },
+                    { "title": "2.3.2.1.2 For ay'' + by' + cy = 0: ar^2 + br + c = 0" }
+                  ]
+                },
+                {
+                  "title": "2.3.2.2 Non-homogeneous equations",
+                  "children": [
+                    { "title": "2.3.2.2.1 Method of undetermined coefficients" },
+                    { "title": "2.3.2.2.2 Variation of parameters" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.3.3 Partial Differential Equations",
+              "children": [
+                {
+                  "title": "2.3.3.1 First order PDEs",
+                  "children": [
+                    { "title": "2.3.3.1.1 Lagrange's method" }
+                  ]
+                },
+                {
+                  "title": "2.3.3.2 Second order PDEs",
+                  "children": [
+                    { "title": "2.3.3.2.1 Heat equation: du/dt = alpha * d^2u/dx^2" },
+                    { "title": "2.3.3.2.2 Wave equation: d^2u/dt^2 = c^2 * d^2u/dx^2" },
+                    { "title": "2.3.3.2.3 Laplace equation: del^2 u = 0" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.4 Vector Calculus",
+          "children": [
+            {
+              "title": "2.4.1 Vector Algebra",
+              "children": [
+                {
+                  "title": "2.4.1.1 Dot product",
+                  "children": [
+                    { "title": "2.4.1.1.1 A . B = |A||B|cos theta" }
+                  ]
+                },
+                {
+                  "title": "2.4.1.2 Cross product",
+                  "children": [
+                    { "title": "2.4.1.2.1 |A x B| = |A||B|sin theta" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.4.2 Gradient, Divergence and Curl",
+              "children": [
+                {
+                  "title": "2.4.2.1 Gradient",
+                  "children": [
+                    { "title": "2.4.2.1.1 del f = (df/dx)i + (df/dy)j + (df/dz)k" }
+                  ]
+                },
+                {
+                  "title": "2.4.2.2 Divergence",
+                  "children": [
+                    { "title": "2.4.2.2.1 del . F = dFx/dx + dFy/dy + dFz/dz" }
+                  ]
+                },
+                {
+                  "title": "2.4.2.3 Curl",
+                  "children": [
+                    { "title": "2.4.2.3.1 del x F = | i j k; d/dx d/dy d/dz; Fx Fy Fz |" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.4.3 Line and Surface Integrals",
+              "children": [
+                {
+                  "title": "2.4.3.1 Line integrals",
+                  "children": [
+                    { "title": "2.4.3.1.1 integral_C F . dr" }
+                  ]
+                },
+                {
+                  "title": "2.4.3.2 Surface integrals",
+                  "children": [
+                    { "title": "2.4.3.2.1 double_integral_S F . n dS" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.4.4 Vector Integral Theorems",
+              "children": [
+                {
+                  "title": "2.4.4.1 Green's theorem",
+                  "children": [
+                    { "title": "2.4.4.1.1 contour_integral_C (Pdx + Qdy) = double_integral_R (dQ/dx - dP/dy) dA" }
+                  ]
+                },
+                {
+                  "title": "2.4.4.2 Stokes' theorem",
+                  "children": [
+                    { "title": "2.4.4.2.1 contour_integral_C F . dr = double_integral_S (del x F) . n dS" }
+                  ]
+                },
+                {
+                  "title": "2.4.4.3 Gauss divergence theorem",
+                  "children": [
+                    { "title": "2.4.4.3.1 triple_integral_V (del . F) dV = double_integral_S F . n dS" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.5 Complex Variables",
+          "children": [
+            {
+              "title": "2.5.1 Analytic Functions",
+              "children": [
+                {
+                  "title": "2.5.1.1 Cauchy-Riemann equations",
+                  "children": [
+                    { "title": "2.5.1.1.1 du/dx = dv/dy" },
+                    { "title": "2.5.1.1.2 du/dy = -dv/dx" }
+                  ]
+                },
+                {
+                  "title": "2.5.1.2 Harmonic functions",
+                  "children": [
+                    { "title": "2.5.1.2.1 del^2 u = 0, del^2 v = 0" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.5.2 Complex Integration",
+              "children": [
+                {
+                  "title": "2.5.2.1 Cauchy's integral theorem",
+                  "children": [
+                    { "title": "2.5.2.1.1 contour_integral_C f(z)dz = 0 for analytic f" }
+                  ]
+                },
+                {
+                  "title": "2.5.2.2 Cauchy's integral formula",
+                  "children": [
+                    { "title": "2.5.2.2.1 f(z_0) = 1/(2pi i) contour_integral_C f(z)/(z-z_0) dz" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.5.3 Series Expansions",
+              "children": [
+                { "title": "2.5.3.1 Taylor series" },
+                {
+                  "title": "2.5.3.2 Laurent series",
+                  "children": [
+                    { "title": "2.5.3.2.1 f(z) = sum(a_n (z-z_0)^n)" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.5.4 Residue Theory",
+              "children": [
+                {
+                  "title": "2.5.4.1 Residue theorem",
+                  "children": [
+                    { "title": "2.5.4.1.1 contour_integral_C f(z) dz = 2pi i * sum(Residues)" }
+                  ]
+                },
+                {
+                  "title": "2.5.4.2 Calculation of residues",
+                  "children": [
+                    { "title": "2.5.4.2.1 Simple pole: Res(f, z_0) = lim_{z->z_0} (z - z_0)f(z)" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.6 Probability and Statistics",
+          "children": [
+            {
+              "title": "2.6.1 Probability Distributions",
+              "children": [
+                {
+                  "title": "2.6.1.1 Discrete distributions",
+                  "children": [
+                    {
+                      "title": "2.6.1.1.1 Binomial distribution",
+                      "children": [
+                        { "title": "2.6.1.1.1.1 P(X=k) = (nCk) p^k (1-p)^(n-k)" },
+                        { "title": "2.6.1.1.1.2 Mean: mu = np" },
+                        { "title": "2.6.1.1.1.3 Variance: sigma^2 = np(1-p)" }
+                      ]
+                    },
+                    {
+                      "title": "2.6.1.1.2 Poisson distribution",
+                      "children": [
+                        { "title": "2.6.1.1.2.1 P(X=k) = (e^(-lambda) lambda^k) / k!" },
+                        { "title": "2.6.1.1.2.2 Mean: mu = lambda" },
+                        { "title": "2.6.1.1.2.3 Variance: sigma^2 = lambda" }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "2.6.1.2 Continuous distributions",
+                  "children": [
+                    {
+                      "title": "2.6.1.2.1 Normal distribution",
+                      "children": [
+                        { "title": "2.6.1.2.1.1 f(x) = (1/(sigma sqrt(2pi))) e^(-(x-mu)^2 / (2sigma^2))" }
+                      ]
+                    },
+                    {
+                      "title": "2.6.1.2.2 Exponential distribution",
+                      "children": [
+                        { "title": "2.6.1.2.2.1 f(x) = lambda e^(-lambda x)" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.6.2 Descriptive Statistics",
+              "children": [
+                {
+                  "title": "2.6.2.1 Measures of central tendency",
+                  "children": [
+                    { "title": "2.6.2.1.1 Mean: x_bar = sum(x_i)/n" },
+                    { "title": "2.6.2.1.2 Median" },
+                    { "title": "2.6.2.1.3 Mode" }
+                  ]
+                },
+                {
+                  "title": "2.6.2.2 Measures of dispersion",
+                  "children": [
+                    { "title": "2.6.2.2.1 Variance: sigma^2 = sum(x_i - x_bar)^2 / n" },
+                    { "title": "2.6.2.2.2 Standard deviation: sigma = sqrt(Variance)" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.6.3 Sampling and Hypothesis Testing",
+              "children": [
+                {
+                  "title": "2.6.3.1 Sampling distributions",
+                  "children": [
+                    { "title": "2.6.3.1.1 Central limit theorem" }
+                  ]
+                },
+                {
+                  "title": "2.6.3.2 Hypothesis testing",
+                  "children": [
+                    { "title": "2.6.3.2.1 Null and alternative hypotheses" },
+                    { "title": "2.6.3.2.2 Type I and Type II errors" }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2.6.4 Correlation and Regression",
+              "children": [
+                { "title": "2.6.4.1 Correlation coefficient" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.7 Numerical Methods",
+          "children": [
+            {
+              "title": "2.7.1 Solutions of non-linear algebraic equations",
+              "children": [
+                { "title": "2.7.1.1 Bisection method" },
+                { "title": "2.7.1.2 Newton-Raphson method" },
+                { "title": "2.7.1.3 Secant method" }
+              ]
+            },
+            {
+              "title": "2.7.2 Integration",
+              "children": [
+                { "title": "2.7.2.1 Trapezoidal rule" },
+                { "title": "2.7.2.2 Simpson's rule" }
+              ]
+            },
+            {
+              "title": "2.7.3 Differential equations",
+              "children": [
+                { "title": "2.7.3.1 Euler's method" },
+                { "title": "2.7.3.2 Runge-Kutta method" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Section 3: Applied Mechanics and Design",
+      "children": [
+        {
+          "title": "3.1 Engineering Mechanics",
+          "children": [
+            { "title": "3.1.1 Free-body diagrams and Equilibrium" },
+            { "title": "3.1.2 Trusses and Frames" },
+            { "title": "3.1.3 Friction" },
+            { "title": "3.1.4 Kinematics and Dynamics of particles and rigid bodies" },
+            { "title": "3.1.5 Impulse and Momentum" },
+            { "title": "3.1.6 Energy methods" }
+          ]
+        },
+        {
+          "title": "3.2 Mechanics of Materials",
+          "children": [
+            { "title": "3.2.1 Stress and Strain" },
+            { "title": "3.2.2 Elastic constants and Poisson's ratio" },
+            { "title": "3.2.3 Shear force and Bending moment" },
+            { "title": "3.2.4 Deflection of beams" },
+            { "title": "3.2.5 Torsion of circular shafts" },
+            { "title": "3.2.6 Euler's theory of columns" },
+            { "title": "3.2.7 Thermal stresses" },
+            { "title": "3.2.8 Strain gauges and rosettes" }
+          ]
+        },
+        {
+          "title": "3.3 Theory of Machines",
+          "children": [
+            { "title": "3.3.1 Displacement, velocity and acceleration analysis" },
+            { "title": "3.3.2 Cams" },
+            { "title": "3.3.3 Gear trains" },
+            { "title": "3.3.4 Flywheels" },
+            { "title": "3.3.5 Vibrations (Free and Damped)" },
+            { "title": "3.3.6 Balancing of reciprocating and rotating masses" }
+          ]
+        },
+        {
+          "title": "3.4 Machine Design",
+          "children": [
+            { "title": "3.4.1 Design for static and dynamic loading" },
+            { "title": "3.4.2 Failure theories" },
+            { "title": "3.4.3 Fatigue strength and S-N diagram" },
+            { "title": "3.4.4 Design of machine elements (Bolted, Riveted, Welded joints)" },
+            { "title": "3.4.5 Shafts, Gears, Rolling and Sliding contact bearings" },
+            { "title": "3.4.6 Brakes and Clutches" },
+            { "title": "3.4.7 Springs" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Section 4: Fluid Mechanics and Thermal Sciences",
+      "children": [
+        {
+          "title": "4.1 Fluid Mechanics",
+          "children": [
+            { "title": "4.1.1 Fluid properties" },
+            { "title": "4.1.2 Fluid statics, Manometry, Buoyancy" },
+            { "title": "4.1.3 Continuity, Momentum and Energy equations" },
+            { "title": "4.1.4 Bernoulli's equation" },
+            { "title": "4.1.5 Laminar and Turbulent flow" },
+            { "title": "4.1.6 Flow through pipes" },
+            { "title": "4.1.7 Boundary layer theory" },
+            { "title": "4.1.8 Dimensional analysis" }
+          ]
+        },
+        {
+          "title": "4.2 Heat-Transfer",
+          "children": [
+            { "title": "4.2.1 Modes of heat transfer" },
+            { "title": "4.2.2 One-dimensional heat conduction" },
+            { "title": "4.2.3 Heat transfer through fins" },
+            { "title": "4.2.4 Free and Forced convection" },
+            { "title": "4.2.5 Radiative heat transfer (Black and Grey surfaces)" },
+            { "title": "4.2.6 Heat exchangers" }
+          ]
+        },
+        {
+          "title": "4.3 Thermodynamics",
+          "children": [
+            { "title": "4.3.1 Thermodynamic systems and processes" },
+            { "title": "4.3.2 Zeroth and First Law of Thermodynamics" },
+            { "title": "4.3.3 Second Law of Thermodynamics" },
+            { "title": "4.3.4 Entropy and Availability" },
+            { "title": "4.3.5 Properties of pure substances" },
+            { "title": "4.3.6 Thermodynamic cycles (Rankine, Otto, Diesel, Dual)" }
+          ]
+        },
+        {
+          "title": "4.4 Applications",
+          "children": [
+            { "title": "4.4.1 Power Engineering (Steam Tables, Rankine cycle)" },
+            { "title": "4.4.2 I.C. Engines (Air standard cycles, Knocking, Fuel injection)" },
+            { "title": "4.4.3 Refrigeration and Air-conditioning" },
+            { "title": "4.4.4 Turbomachinery (Pelton wheel, Francis and Kaplan turbines, Steam and Gas turbines)" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Section 5: Materials, Manufacturing and Industrial Engineering",
+      "children": [
+        {
+          "title": "5.1 Engineering Materials",
+          "children": [
+            { "title": "5.1.1 Structure and properties of engineering materials" },
+            { "title": "5.1.2 Phase diagrams" },
+            { "title": "5.1.3 Heat treatment" },
+            { "title": "5.1.4 Stress-strain diagrams for engineering materials" }
+          ]
+        },
+        {
+          "title": "5.2 Casting, Forming and Joining Processes",
+          "children": [
+            { "title": "5.2.1 Different casting processes and design of patterns" },
+            { "title": "5.2.2 Plastic deformation and yield criteria" },
+            { "title": "5.2.3 Hot and cold working" },
+            { "title": "5.2.4 Welding (Arc, Gas, Resistance, TIG, MIG)" }
+          ]
+        },
+        {
+          "title": "5.3 Machining and Machine Tool Operations",
+          "children": [
+            { "title": "5.3.1 Mechanics of machining" },
+            { "title": "5.3.2 Basic machine tools" },
+            { "title": "5.3.3 Tool geometry and materials" },
+            { "title": "5.3.4 Tool life and wear" },
+            { "title": "5.3.5 Economics of machining" },
+            { "title": "5.3.6 NC/CNC machines" }
+          ]
+        },
+        {
+          "title": "5.4 Metrology and Inspection",
+          "children": [
+            { "title": "5.4.1 Limits, fits and tolerances" },
+            { "title": "5.4.2 Linear and angular measurements" },
+            { "title": "5.4.3 Comparators" },
+            { "title": "5.4.4 Gauge design" },
+            { "title": "5.4.5 Interferometry" }
+          ]
+        },
+        {
+          "title": "5.5 Computer Integrated Manufacturing",
+          "children": [
+            { "title": "5.5.1 CAD/CAM" },
+            { "title": "5.5.2 FMS" },
+            { "title": "5.5.3 CIMS" }
+          ]
+        },
+        {
+          "title": "5.6 Production Planning and Control",
+          "children": [
+            { "title": "5.6.1 Forecasting models" },
+            { "title": "5.6.2 Aggregate production planning" },
+            { "title": "5.6.3 Scheduling" },
+            { "title": "5.6.4 Materials Requirement Planning" }
+          ]
+        },
+        {
+          "title": "5.7 Inventory Control",
+          "children": [
+            { "title": "5.7.1 Deterministic models" },
+            { "title": "5.7.2 Safety stock inventory control systems" }
+          ]
+        },
+        {
+          "title": "5.8 Operations Research",
+          "children": [
+            { "title": "5.8.1 Linear programming" },
+            { "title": "5.8.2 Simplex method" },
+            { "title": "5.8.3 Transportation and assignment models" },
+            { "title": "5.8.4 Network flow models" },
+            { "title": "5.8.5 PERT and CPM" }
+          ]
+        }
+      ]
+    }
+  ]
+}
